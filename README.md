@@ -1,7 +1,7 @@
-👋<h1 align="center">Hi there! I'm Antonela!!👋
+<h1 align="center">Hi there! I'm Antonela!!👋
                      🎧💻👩‍💻
 
-https://user-images.githubusercontent.com/98411424/212599143-c5342c8f-fde3-4b75-a776-ed59ee3b027b.gif)
+https://user-images.githubusercontent.com/98411424/212599421-e8182499-3a46-427f-9bee-efbdd91b711e.mp4
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
