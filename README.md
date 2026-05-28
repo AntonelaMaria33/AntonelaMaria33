@@ -1,5 +1,4 @@
-<h1 align="center">Hi there! I'm Antonela!!👋
-                     🎧💻👩‍💻
+<h1 align="center">QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
 
 https://user-images.githubusercontent.com/98411424/212599421-e8182499-3a46-427f-9bee-efbdd91b711e.mp4
 
