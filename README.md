@@ -67,6 +67,16 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Allure](https://img.shields.io/badge/-Allure-E6E6FA?style=for-the-badge&logo=allure&logoColor=black)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Newman](https://img.shields.io/badge/-Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
+
+## 🤖 AI-Assisted Development
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 <br>
 
