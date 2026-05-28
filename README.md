@@ -1,24 +1,98 @@
-<h1 align="center">QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
+<h1 align="center">Hi there 👋 I'm Antonella Verzilli</h1>
 
-https://user-images.githubusercontent.com/98411424/212599421-e8182499-3a46-427f-9bee-efbdd91b711e.mp4
+<h3 align="center">
+QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
+</h3>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<br>
 
-### Talking about Personal Stuffs:
+<img align="right" height="250" width="375" alt="coder-gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavanghi/master/gifs/coder.gif" />
 
-- 🛠 &nbsp; I’m currently working with React, Jest, Cypress, Angular <br /> Javascript, Typescript etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on my Github
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: mariantonelaverzilli@gmail.com.
+## 👩🏻‍💻 About Me
 
-### MyFavorites:
+- 🔹 QA Automation Engineer from Argentina.
+- 🔹 Experienced working with modern automation frameworks and testing tools.
+- 🔹 Focused on building scalable, maintainable and reliable automation solutions.
+- 🔹 Passionate about continuous learning and technical growth.
+- 🔹 Currently strengthening skills in Selenium with Python and Playwright with TypeScript.
+- 🔹 Interested in bridging QA Automation and Software Engineering.
+- 🔹 Exploring AI-assisted development workflows and automation practices.
 
-- 💻 &nbsp; I love exploring new technologies and building cool things.
-- 📰 &nbsp; Plan or create projects that simplify everyday tasks.
+<br>
 
-### Languages and Tools:
+## 🚀 Current Focus
 
+- ✔ UI & API Automation
+- ✔ Scalable Test Automation Frameworks
+- ✔ Playwright + TypeScript
+- ✔ Selenium + Python
+- ✔ CI/CD Workflows
+- ✔ Software Quality Engineering
+- ✔ AI Tools applied to Development & Testing
+
+<br>
+
+## 📌 Featured Projects
+
+### 🔹 Pi Automation Framework
+
+Automation framework developed with Cypress following Page Object Model architecture, API testing integration and reporting.
+
+### 🔹 Selenium Python Framework
+
+Personal project focused on strengthening Selenium automation using Python, scalable architecture and UI testing best practices.
+
+### 🔹 Playwright Automation Project
+
+Automation project built with Playwright + TypeScript focused on modern E2E testing practices and framework evolution.
+
+<br>
+
+## 🔨 Tech Stack
+
+### 🧪 Testing & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,pytest,jest,postman" />
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nodejs,react,vscode" />
+</p>
+
+<br>
+
+## 🌱 Currently Learning
+
+- Advanced automation architecture
+- Playwright ecosystem
+- Python automation development
+- AI-assisted software development
+- Scalable testing strategies
+- Software Engineering best practices
+
+<br>
+
+## 📫 Contact
+
+- 📧 Email: mariantonelaverzilli@gmail.com
+- 💻 GitHub: https://github.com/AntonelaMaria33
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
 
 ### 🔨 Languages and Tools:
 
