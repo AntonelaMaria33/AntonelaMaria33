@@ -50,50 +50,6 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 ## 🔨 Tech Stack
 
-### 🧪 Testing & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest,jest,postman" />
-</p>
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nodejs,react,vscode" />
-</p>
-
-<br>
-
-## 🌱 Currently Learning
-
-- Advanced automation architecture
-- Playwright ecosystem
-- Python automation development
-- AI-assisted software development
-- Scalable testing strategies
-- Software Engineering best practices
-
-<br>
-
-## 📫 Contact
-
-- 📧 Email: mariantonelaverzilli@gmail.com
-- 💻 GitHub: https://github.com/AntonelaMaria33
-
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
-
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -128,7 +84,33 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nodejs,vscode" />
-</p>
+</p
+
+<br>
+
+## 🌱 Currently Learning
+
+- Advanced automation architecture
+- Playwright ecosystem
+- Python automation development
+- AI-assisted software development
+- Scalable testing strategies
+- Software Engineering best practices
+
+<br>
+
+## 📫 Contact
+
+- 📧 Email: mariantonelaverzilli@gmail.com
+- 💻 GitHub: https://github.com/AntonelaMaria33
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
 <br>
 
 <!--
