@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Antonella Verzilli</h1>
+<h1 align="center">Hi there 👋 I'm Antonela Verzilli</h1>
 
 <h3 align="center">
 QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Cypress+%7C+Selenium+%7C+Playwright;Python+%7C+TypeScript+%7C+API+Testing;Building+Scalable+Automation+Frameworks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Cypress+%7C+Selenium+%7C+Playwright;JS+%7C+Python+%7C+TypeScript+%7C+API+Testing;Building+Scalable+Automation+Frameworks" />
 </p>
 
 <p align="center">
