@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Antonela Verzilli</h1>
+<h1 align="center">Ssr QA Automation Engineer</h1>
 
 <h3 align="center">
 QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
@@ -115,12 +115,23 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 <br>
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: mariantonelaverzilli@gmail.com
-- 💻 GitHub: https://github.com/AntonelaMaria33
-- 🌎 Location: Córdoba, Argentina
+<p align="left">
+  <a href="mailto:mariantonelaverzilli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/AntonelaMaria33">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/antonela-verzilli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+🌎 Córdoba, Argentina
 <br>
 
 <div align="center">
