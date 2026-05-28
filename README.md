@@ -86,20 +86,10 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonelaMaria33&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonelaMaria33&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonelaMaria33&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AntonelaMaria33&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
@@ -141,6 +131,20 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 </div>
 
 <br>
+
+<!--
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonelaMaria33&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonelaMaria33&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<br>
+
+-->
 
 <!-- Snake Animation -->
 
