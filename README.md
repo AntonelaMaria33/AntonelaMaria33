@@ -4,9 +4,19 @@
 QA Automation Engineer | Cypress • Selenium • Playwright | API Testing | Python & TypeScript | Building scalable test automation frameworks
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Cypress+%7C+Selenium+%7C+Playwright;Python+%7C+TypeScript+%7C+API+Testing;Building+Scalable+Automation+Frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AntonelaMaria33&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <br>
 
-<img align="right" height="250" width="375" alt="coder-gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavanghi/master/gifs/coder.gif" />
+<p align="center">
+  <img height="250" width="375" alt="coder-gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</p>
 
 ## 👩🏻‍💻 About Me
 
@@ -50,29 +60,15 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 ## 🔨 Tech Stack
 
-### 🔨 Languages and Tools:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="42"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="42"/>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height ="42px"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="42"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="42"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="42"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="42"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="42"/> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="42"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="42"/> </a>
-
 ### 🧪 Testing & Automation
 
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Allure](https://img.shields.io/badge/-Allure-E6E6FA?style=for-the-badge&logo=allure&logoColor=black)
+
+<br>
 
 ### 💻 Languages
 
@@ -80,11 +76,31 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
   <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
+<br>
+
 ### ⚙️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nodejs,vscode" />
-</p
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nodejs,vscode,react" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonelaMaria33&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonelaMaria33&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonelaMaria33&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br>
 
@@ -103,6 +119,7 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 
 - 📧 Email: mariantonelaverzilli@gmail.com
 - 💻 GitHub: https://github.com/AntonelaMaria33
+- 🌎 Location: Córdoba, Argentina
 
 <br>
 
@@ -111,9 +128,18 @@ Automation project built with Playwright + TypeScript focused on modern E2E test
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+
 <br>
 
+<!-- Snake Animation -->
+
 <!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
+![Snake animation](https://github.com/AntonelaMaria33/AntonelaMaria33/blob/output/github-contribution-grid-snake.svg)
 -->
- 
+
+<!-- Future Add-ons:
+- Spotify integration
+- Discord status
+- Activity Graph
+- LeetCode stats
+-->
